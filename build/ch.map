@@ -1,0 +1,2190 @@
+Archive member included because of file (symbol)
+
+c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+                              C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o (strcmp)
+c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strpbrk.o)
+                              C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o (strpbrk)
+c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strspn.o)
+                              C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o (strspn)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 build/obj/crt0_v7m.o
+ .bss           0x00000000        0x0 build/obj/crt0_v7m.o
+ .data          0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .bss           0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .text          0x00000000        0x0 build/obj/crt1.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text          0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .data          0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .text          0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .data          0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .text          0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .data          0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .text          0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+ .data          0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+ .data          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+ .eh_frame      0x00000000       0x70 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strpbrk.o)
+ .data          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strpbrk.o)
+ .bss           0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strpbrk.o)
+ .text          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strspn.o)
+ .data          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strspn.o)
+ .bss           0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strspn.o)
+ .text          0x00000000        0x0 build/obj/vectors.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsys.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdebug.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chvt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chschd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chthreads.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtm.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdynamic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chregistry.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsem.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmtx.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcond.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chevents.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmsg.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmboxes.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chqueues.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmemcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chheap.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmempools.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore_v7m.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/osal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/st.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_buffers.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_queues.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_mmcsd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/pal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/pwm.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/serial.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/spi.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/nvic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/stm32_dma.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/st_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/pal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/spi_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/pwm_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/serial_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/board.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testthd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testsem.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testmtx.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testmsg.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testmbox.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testevt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testheap.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testpools.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testdyn.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testqueues.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testsys.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/testbmk.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/shell.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/memstreams.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chprintf.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/lcd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/mfrc522.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/motor.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rfidcodes.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/main.o (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x08000000         0x00040000
+ram0             0x20000000         0x0000a000
+ram1             0x00000000         0x00000000
+ram2             0x00000000         0x00000000
+ram3             0x00000000         0x00000000
+ram4             0x10000000         0x00002000
+ram5             0x00000000         0x00000000
+ram6             0x00000000         0x00000000
+ram7             0x00000000         0x00000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/obj/crt0_v7m.o
+LOAD build/obj/chcoreasm_v7m.o
+LOAD build/obj/crt1.o
+LOAD C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+LOAD C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+LOAD C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+LOAD C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+LOAD C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a
+LOAD build/obj/vectors.o
+LOAD build/obj/chsys.o
+LOAD build/obj/chdebug.o
+LOAD build/obj/chvt.o
+LOAD build/obj/chschd.o
+LOAD build/obj/chthreads.o
+LOAD build/obj/chtm.o
+LOAD build/obj/chdynamic.o
+LOAD build/obj/chregistry.o
+LOAD build/obj/chsem.o
+LOAD build/obj/chmtx.o
+LOAD build/obj/chcond.o
+LOAD build/obj/chevents.o
+LOAD build/obj/chmsg.o
+LOAD build/obj/chmboxes.o
+LOAD build/obj/chqueues.o
+LOAD build/obj/chmemcore.o
+LOAD build/obj/chheap.o
+LOAD build/obj/chmempools.o
+LOAD build/obj/chcore.o
+LOAD build/obj/chcore_v7m.o
+LOAD build/obj/osal.o
+LOAD build/obj/hal.o
+LOAD build/obj/st.o
+LOAD build/obj/hal_buffers.o
+LOAD build/obj/hal_queues.o
+LOAD build/obj/hal_mmcsd.o
+LOAD build/obj/pal.o
+LOAD build/obj/pwm.o
+LOAD build/obj/serial.o
+LOAD build/obj/spi.o
+LOAD build/obj/nvic.o
+LOAD build/obj/hal_lld.o
+LOAD build/obj/stm32_dma.o
+LOAD build/obj/st_lld.o
+LOAD build/obj/pal_lld.o
+LOAD build/obj/spi_lld.o
+LOAD build/obj/pwm_lld.o
+LOAD build/obj/serial_lld.o
+LOAD build/obj/board.o
+LOAD build/obj/test.o
+LOAD build/obj/testthd.o
+LOAD build/obj/testsem.o
+LOAD build/obj/testmtx.o
+LOAD build/obj/testmsg.o
+LOAD build/obj/testmbox.o
+LOAD build/obj/testevt.o
+LOAD build/obj/testheap.o
+LOAD build/obj/testpools.o
+LOAD build/obj/testdyn.o
+LOAD build/obj/testqueues.o
+LOAD build/obj/testsys.o
+LOAD build/obj/testbmk.o
+LOAD build/obj/shell.o
+LOAD build/obj/memstreams.o
+LOAD build/obj/chprintf.o
+LOAD build/obj/lcd.o
+LOAD build/obj/mfrc522.o
+LOAD build/obj/motor.o
+LOAD build/obj/rfidcodes.o
+LOAD build/obj/main.o
+                0x20000000                __ram0_start__ = ORIGIN (ram0)
+                0x0000a000                __ram0_size__ = 0xa000
+                0x2000a000                __ram0_end__ = (__ram0_start__ + __ram0_size__)
+                0x00000000                __ram1_start__ = ORIGIN (ram1)
+                0x00000000                __ram1_size__ = 0x0
+                0x00000000                __ram1_end__ = (__ram1_start__ + __ram1_size__)
+                0x00000000                __ram2_start__ = ORIGIN (ram2)
+                0x00000000                __ram2_size__ = 0x0
+                0x00000000                __ram2_end__ = (__ram2_start__ + __ram2_size__)
+                0x00000000                __ram3_start__ = ORIGIN (ram3)
+                0x00000000                __ram3_size__ = 0x0
+                0x00000000                __ram3_end__ = (__ram3_start__ + __ram3_size__)
+                0x10000000                __ram4_start__ = ORIGIN (ram4)
+                0x00002000                __ram4_size__ = 0x2000
+                0x10002000                __ram4_end__ = (__ram4_start__ + __ram4_size__)
+                0x00000000                __ram5_start__ = ORIGIN (ram5)
+                0x00000000                __ram5_size__ = 0x0
+                0x00000000                __ram5_end__ = (__ram5_start__ + __ram5_size__)
+                0x00000000                __ram6_start__ = ORIGIN (ram6)
+                0x00000000                __ram6_size__ = 0x0
+                0x00000000                __ram6_end__ = (__ram6_start__ + __ram6_size__)
+                0x00000000                __ram7_start__ = ORIGIN (ram7)
+                0x00000000                __ram7_size__ = 0x0
+                0x00000000                __ram7_end__ = (__ram7_start__ + __ram7_size__)
+                0x00000000                . = 0x0
+                0x00000000                _text = .
+
+startup         0x08000000      0x1a0
+ *(.vectors)
+ .vectors       0x08000000      0x1a0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08000000                _vectors
+
+constructors    0x080001a0        0x0
+                0x080001a0                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x080001a0                __init_array_end = .
+
+destructors     0x080001a0        0x0
+                0x080001a0                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x080001a0                __fini_array_end = .
+
+.text           0x080001a0     0x3d9c
+ *(.text)
+ .text          0x080001a0       0xc4 build/obj/crt0_v7m.o
+                0x080001a0                Reset_Handler
+ *fill*         0x08000264        0xc 
+ .text          0x08000270       0x28 build/obj/chcoreasm_v7m.o
+                0x08000270                _port_switch
+                0x08000280                _port_thread_start
+                0x08000290                _port_switch_from_isr
+                0x08000294                _port_exit_from_isr
+ *fill*         0x08000298        0x8 
+ .text          0x080002a0      0x2dc c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+                0x080002a8                strcmp
+ *(.text.*)
+ *fill*         0x0800057c        0x4 
+ .text.notify1.lto_priv.81
+                0x08000580       0x10 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08000580                notify1.lto_priv.81
+ .text.spi_lld_serve_tx_interrupt.lto_priv.79
+                0x08000590       0x18 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08000590                spi_lld_serve_tx_interrupt.lto_priv.79
+ *fill*         0x080005a8        0x8 
+ .text._port_irq_epilogue
+                0x080005b0       0x54 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x08000604        0xc 
+ .text.VectorB0
+                0x08000610       0xa0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.Vector130
+                0x080006b0       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.Vector12C
+                0x080006e0       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.Vector128
+                0x08000710       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.Vector124
+                0x08000740       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.Vector120
+                0x08000770       0x28 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x08000798        0x8 
+ .text.Vector84
+                0x080007a0       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.Vector80
+                0x080007d0       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.Vector7C
+                0x08000800       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.Vector78
+                0x08000830       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.Vector74
+                0x08000860       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.Vector70
+                0x08000890       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.Vector6C
+                0x080008c0       0x28 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x080008e8        0x8 
+ .text.SVC_Handler
+                0x080008f0       0x14 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x08000904        0xc 
+ .text.chCoreAlloc
+                0x08000910       0x38 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08000910                chCoreAlloc
+ *fill*         0x08000948        0x8 
+ .text.wakeup   0x08000950       0x70 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.chSchReadyI
+                0x080009c0       0x2c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x080009ec        0x4 
+ .text.spi_lld_serve_rx_interrupt.lto_priv.78
+                0x080009f0       0x84 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x080009f0                spi_lld_serve_rx_interrupt.lto_priv.78
+ *fill*         0x08000a74        0xc 
+ .text.chEvtBroadcastFlagsI
+                0x08000a80       0x5c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x08000adc        0x4 
+ .text.VectorD4
+                0x08000ae0      0x19c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x08000c7c        0x4 
+ .text._idle_thread.lto_priv.80
+                0x08000c80        0x4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08000c80                _idle_thread.lto_priv.80
+ *fill*         0x08000c84        0xc 
+ .text._unhandled_exception
+                0x08000c90        0x4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x08000c94        0xc 
+ .text.cmd_systime
+                0x08000ca0       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.cmd_info
+                0x08000cd0       0xbc C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x08000d8c        0x4 
+ .text.VectorAC
+                0x08000d90       0x10 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.VectorA4
+                0x08000da0       0x10 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.chSchDoRescheduleAhead
+                0x08000db0       0x3c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x08000dec        0x4 
+ .text.__early_init
+                0x08000df0       0xa0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08000df0                __early_init
+ .text._pal_lld_setgroupmode
+                0x08000e90       0xd0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08000e90                _pal_lld_setgroupmode
+ .text.chMtxUnlock
+                0x08000f60       0x70 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08000f60                chMtxUnlock
+ .text.chTMStopMeasurementX
+                0x08000fd0       0x44 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08000fd0                chTMStopMeasurementX
+ *fill*         0x08001014        0xc 
+ .text.chSchDoReschedule
+                0x08001020        0x4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08001020                chSchDoReschedule
+ *fill*         0x08001024        0xc 
+ .text.chSchGoSleepS
+                0x08001030       0x24 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08001030                chSchGoSleepS
+ *fill*         0x08001054        0xc 
+ .text.chMtxLock
+                0x08001060       0xd8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08001060                chMtxLock
+ *fill*         0x08001138        0x8 
+ .text.chThdExitS
+                0x08001140       0x40 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.shell_thread.lto_priv.77
+                0x08001180      0x230 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08001180                shell_thread.lto_priv.77
+ .text.chThdExit
+                0x080013b0        0xc C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x080013b0                chThdExit
+ *fill*         0x080013bc        0x4 
+ .text.chSchGoSleepTimeoutS
+                0x080013c0      0x10c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x080014cc        0x4 
+ .text.chThdEnqueueTimeoutS
+                0x080014d0       0x28 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x080014f8        0x8 
+ .text.chOQWriteTimeout
+                0x08001500       0x84 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x08001584        0xc 
+ .text.writet.lto_priv.89
+                0x08001590        0x8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08001590                writet.lto_priv.89
+ *fill*         0x08001598        0x8 
+ .text.write.lto_priv.83
+                0x080015a0        0xc C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x080015a0                write.lto_priv.83
+ *fill*         0x080015ac        0x4 
+ .text.chOQPutTimeout
+                0x080015b0       0x54 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x08001604        0xc 
+ .text.putt.lto_priv.87
+                0x08001610        0x8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08001610                putt.lto_priv.87
+ *fill*         0x08001618        0x8 
+ .text.put.lto_priv.85
+                0x08001620        0xc C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08001620                put.lto_priv.85
+ *fill*         0x0800162c        0x4 
+ .text.chIQReadTimeout
+                0x08001630       0x78 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ *fill*         0x080016a8        0x8 
+ .text.readt.lto_priv.90
+                0x080016b0        0x8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x080016b0                readt.lto_priv.90
+ *fill*         0x080016b8        0x8 
+ .text.read.lto_priv.84
+                0x080016c0        0xc C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x080016c0                read.lto_priv.84
+ *fill*         0x080016cc        0x4 
+ .text.chIQGetTimeout
+                0x080016d0       0x50 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .text.gett.lto_priv.88
+                0x08001720        0x8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08001720                gett.lto_priv.88
+ *fill*         0x08001728        0x8 
+ .text.get.lto_priv.86
+                0x08001730        0xc C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08001730                get.lto_priv.86
+ *fill*         0x0800173c        0x4 
+ .text.chThdSleep
+                0x08001740       0x18 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08001740                chThdSleep
+ *fill*         0x08001758        0x8 
+ .text.__init_ram_areas
+                0x08001760       0x4c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x08001760                __init_ram_areas
+ *fill*         0x080017ac        0x4 
+ .text.__default_exit
+                0x080017b0        0x4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x080017b0                __default_exit
+ *fill*         0x080017b4        0xc 
+ .text.__late_init
+                0x080017c0        0x4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x080017c0                __late_init
+ *fill*         0x080017c4        0xc 
+ .text.__core_init
+                0x080017d0        0x4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                0x080017d0                __core_init
+ *fill*         0x080017d4        0xc 
+ .text.startup.main
+                0x080017e0      0xd6c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                0x080017e0                main
+ *fill*         0x0800254c        0x4 
+ .text.chSchWakeupS.constprop.70
+                0x08002550       0x58 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x08002550                chSchWakeupS.constprop.70
+ *fill*         0x080025a8        0x8 
+ .text.chThdCreateStatic.constprop.69
+                0x080025b0       0x78 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x080025b0                chThdCreateStatic.constprop.69
+ *fill*         0x08002628        0x8 
+ .text.chTMStartMeasurementX.constprop.67
+                0x08002630        0xc C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x08002630                chTMStartMeasurementX.constprop.67
+ *fill*         0x0800263c        0x4 
+ .text.dmaStreamAllocate.constprop.44
+                0x08002640       0xb4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x08002640                dmaStreamAllocate.constprop.44
+ *fill*         0x080026f4        0xc 
+ .text.pwm_lld_serve_interrupt.constprop.33
+                0x08002700       0x64 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x08002700                pwm_lld_serve_interrupt.constprop.33
+ *fill*         0x08002764        0xc 
+ .text._strtok.constprop.30
+                0x08002770       0x40 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x08002770                _strtok.constprop.30
+ .text.long_to_string_with_divisor.constprop.29
+                0x080027b0       0x44 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x080027b0                long_to_string_with_divisor.constprop.29
+ *fill*         0x080027f4        0xc 
+ .text.hd44780WriteRegister.constprop.25
+                0x08002800      0x17c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x08002800                hd44780WriteRegister.constprop.25
+ *fill*         0x0800297c        0x4 
+ .text.lcdWriteString.constprop.21
+                0x08002980       0x38 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x08002980                lcdWriteString.constprop.21
+ *fill*         0x080029b8        0x8 
+ .text.MFRC522WriteRegister.constprop.20
+                0x080029c0       0xb8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x080029c0                MFRC522WriteRegister.constprop.20
+ *fill*         0x08002a78        0x8 
+ .text.MFRC522ReadRegister.constprop.19
+                0x08002a80       0xc8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x08002a80                MFRC522ReadRegister.constprop.19
+ *fill*         0x08002b48        0x8 
+ .text.MFRC522SetBitMask.constprop.18
+                0x08002b50       0x1c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x08002b50                MFRC522SetBitMask.constprop.18
+ *fill*         0x08002b6c        0x4 
+ .text.MFRC522ClearBitMask.constprop.17
+                0x08002b70       0x1c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x08002b70                MFRC522ClearBitMask.constprop.17
+ *fill*         0x08002b8c        0x4 
+ .text.MifareToPICC.constprop.16
+                0x08002b90       0xfc C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x08002b90                MifareToPICC.constprop.16
+ *fill*         0x08002c8c        0x4 
+ .text.pwmc1cb.lto_priv.92
+                0x08002c90       0x10 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x08002c90                pwmc1cb.lto_priv.92
+ .text.pwmpcb.lto_priv.91
+                0x08002ca0       0x10 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x08002ca0                pwmpcb.lto_priv.91
+ .text.Thread6.lto_priv.76
+                0x08002cb0       0x44 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x08002cb0                Thread6.lto_priv.76
+ *fill*         0x08002cf4        0xc 
+ .text.Thread5.lto_priv.75
+                0x08002d00       0xc4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x08002d00                Thread5.lto_priv.75
+ *fill*         0x08002dc4        0xc 
+ .text.Thread4.lto_priv.74
+                0x08002dd0       0x54 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x08002dd0                Thread4.lto_priv.74
+ *fill*         0x08002e24        0xc 
+ .text.Thread1.lto_priv.71
+                0x08002e30       0x34 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x08002e30                Thread1.lto_priv.71
+ *fill*         0x08002e64        0xc 
+ .text.Thread2.lto_priv.72
+                0x08002e70       0x8c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x08002e70                Thread2.lto_priv.72
+ *fill*         0x08002efc        0x4 
+ .text.Thread3.lto_priv.73
+                0x08002f00       0x98 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x08002f00                Thread3.lto_priv.73
+ *fill*         0x08002f98        0x8 
+ .text.chprintf
+                0x08002fa0      0x314 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x08002fa0                chprintf
+ *fill*         0x080032b4        0xc 
+ .text.cmd_manual.lto_priv.96
+                0x080032c0       0x18 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x080032c0                cmd_manual.lto_priv.96
+ *fill*         0x080032d8        0x8 
+ .text.cmd_addcard.lto_priv.93
+                0x080032e0       0xb8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x080032e0                cmd_addcard.lto_priv.93
+ *fill*         0x08003398        0x8 
+ .text.cmd_codes.lto_priv.95
+                0x080033a0       0x84 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x080033a0                cmd_codes.lto_priv.95
+ *fill*         0x08003424        0xc 
+ .text.cmd_rmvcard.lto_priv.94
+                0x08003430       0xb8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                0x08003430                cmd_rmvcard.lto_priv.94
+ *fill*         0x080034e8        0x8 
+ .text.MifareCalculateCRC.constprop.11
+                0x080034f0       0x6c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+ *fill*         0x0800355c        0x4 
+ .text.MFRC522AntiCollisionLoop.constprop.9
+                0x08003560       0xc8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+ *fill*         0x08003628        0x8 
+ .text.MifareCheck.constprop.5
+                0x08003630       0xa4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                0x08003630                MifareCheck.constprop.5
+ *fill*         0x080036d4        0xc 
+ .text.codeIndex.constprop.0
+                0x080036e0       0x74 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                0x080036e0                codeIndex.constprop.0
+ *fill*         0x08003754        0xc 
+ .text.strpbrk  0x08003760       0x48 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strpbrk.o)
+                0x08003760                strpbrk
+ *fill*         0x080037a8        0x8 
+ .text.strspn   0x080037b0       0x34 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strspn.o)
+                0x080037b0                strspn
+ *(.rodata)
+ *(.rodata.*)
+ *fill*         0x080037e4        0xc 
+ .rodata.str1.4
+                0x080037f0      0x259 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                0x25d (size before relaxing)
+ *fill*         0x08003a49        0x7 
+ .rodata.ram_areas
+                0x08003a50       0x80 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .rodata.lcdpins
+                0x08003ad0       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .rodata.vmt    0x08003b00       0x20 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .rodata._stm32_dma_streams
+                0x08003b20       0xf0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .rodata.SPI2cfg
+                0x08003c10       0x10 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .rodata.ch_debug
+                0x08003c20       0x16 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ *fill*         0x08003c36        0xa 
+ .rodata.str1.4
+                0x08003c40       0x4f C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ *fill*         0x08003c8f        0x1 
+ .rodata.commands
+                0x08003c90       0x28 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ *fill*         0x08003cb8        0x8 
+ .rodata.lcdcfg
+                0x08003cc0        0xc C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ *fill*         0x08003ccc        0x4 
+ .rodata.shell_cfg1
+                0x08003cd0        0x8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ *fill*         0x08003cd8        0x8 
+ .rodata.str1.4
+                0x08003ce0        0x3 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ *fill*         0x08003ce3        0xd 
+ .rodata.str1.4
+                0x08003cf0      0x24c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                0x278 (size before relaxing)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.gcc*)
+
+.vfp11_veneer   0x08003f3c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08003f3c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08003f3c        0x0
+ .iplt          0x00000000        0x0 build/obj/crt0_v7m.o
+
+.rel.dyn        0x08003f3c        0x0
+ .rel.iplt      0x00000000        0x0 build/obj/crt0_v7m.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x08003f3c        0x0
+                0x08003f3c                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x08003f3c                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.textalign      0x08003f3c        0x4
+                0x08003f40                . = ALIGN (0x8)
+ *fill*         0x08003f3c        0x4 
+                0x08003f40                . = ALIGN (0x4)
+                0x08003f40                PROVIDE (_etext, .)
+
+.mstack         0x20000000      0x400
+                0x20000000                . = ALIGN (0x8)
+                0x20000000                __main_stack_base__ = .
+                0x20000400                . = (. + __main_stack_size__)
+ *fill*         0x20000000      0x400 
+                0x20000400                . = ALIGN (0x8)
+                0x20000400                __main_stack_end__ = .
+
+.pstack         0x20000400      0x400
+                0x20000400                __process_stack_base__ = .
+                0x20000400                __main_thread_stack_base__ = .
+                0x20000800                . = (. + __process_stack_size__)
+ *fill*         0x20000400      0x400 
+                0x20000800                . = ALIGN (0x8)
+                0x20000800                __process_stack_end__ = .
+                0x20000800                __main_thread_stack_end__ = .
+
+.data           0x20000800       0x74 load address 0x08003f40
+                0x20000800                . = ALIGN (0x4)
+                0x08003f40                PROVIDE (_textdata, LOADADDR (.data))
+                0x20000800                PROVIDE (_data, .)
+                0x08003f40                _textdata_start = LOADADDR (.data)
+                0x20000800                _data_start = .
+ *(.data)
+ *(.data.*)
+ .data.local_commands
+                0x20000800       0x18 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .data.pwmcfg   0x20000818       0x44 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .data.motorcfg
+                0x2000085c        0x8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .data.CardIDMutex
+                0x20000864       0x10 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ *(.ramtext)
+                0x20000874                . = ALIGN (0x4)
+                0x20000874                PROVIDE (_edata, .)
+                0x20000874                _data_end = .
+
+.igot.plt       0x20000874        0x0 load address 0x08003fb4
+ .igot.plt      0x00000000        0x0 build/obj/crt0_v7m.o
+
+.bss            0x20000878      0xb6c load address 0x08003fb4
+                0x20000878                . = ALIGN (0x4)
+                0x20000878                _bss_start = .
+ *(.bss)
+ *(.bss.*)
+ .bss.waThread5
+                0x20000878      0x148 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .bss.waThread6
+                0x200009c0      0x148 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .bss.default_heap
+                0x20000b08       0x20 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .bss.MTRD1     0x20000b28        0x8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                0x20000b28                MTRD1
+ .bss.SD1       0x20000b30       0x7c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                0x20000b30                SD1
+ .bss.endmem.lto_priv.98
+                0x20000bac        0x4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                0x20000bac                endmem.lto_priv.98
+ .bss.shell_terminated
+                0x20000bb0        0x4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                0x20000bb0                shell_terminated
+ .bss.nextmem.lto_priv.99
+                0x20000bb4        0x4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                0x20000bb4                nextmem.lto_priv.99
+ .bss.RFID1_cfg
+                0x20000bb8        0x0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .bss.waThread1
+                0x20000bb8      0x148 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .bss.waThread2
+                0x20000d00      0x148 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .bss.waThread3
+                0x20000e48      0x148 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .bss.waThread4
+                0x20000f90      0x148 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .bss._stm32_dma_isr_redir
+                0x200010d8       0x60 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x200010d8                _stm32_dma_isr_redir
+ .bss.ch        0x20001138      0x150 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x20001138                ch
+ .bss.PWMD1     0x20001288       0x1c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x20001288                PWMD1
+ .bss.SPID2     0x200012a4       0x30 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x200012a4                SPID2
+ .bss.LCDD1     0x200012d4        0xc C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x200012d4                LCDD1
+ .bss.txbuf     0x200012e0        0x2 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ *fill*         0x200012e2        0x2 
+ .bss.rxbuf     0x200012e4        0x2 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ *fill*         0x200012e6        0x2 
+ .bss.dma_streams_mask.lto_priv.82
+                0x200012e8        0x4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x200012e8                dma_streams_mask.lto_priv.82
+ .bss.RFID1     0x200012ec        0x8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                0x200012ec                RFID1
+ .bss.dummyrx   0x200012f4        0x2 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .bss.state     0x200012f6        0x1 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ *fill*         0x200012f7        0x1 
+ .bss.codes     0x200012f8       0xdd C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                0x200012f8                codes
+ *fill*         0x200013d5        0x3 
+ .bss.CardID.lto_priv.97
+                0x200013d8        0xb C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                0x200013d8                CardID.lto_priv.97
+ *(COMMON)
+                0x200013e4                . = ALIGN (0x4)
+ *fill*         0x200013e3        0x1 
+                0x200013e4                _bss_end = .
+                0x200013e4                PROVIDE (end, .)
+
+.ram0_init      0x200013e4        0x0 load address 0x08003fb4
+                0x200013e4                . = ALIGN (0x4)
+                0x08003fb4                __ram0_init_text__ = LOADADDR (.ram0_init)
+                0x200013e4                __ram0_init__ = .
+ *(.ram0_init)
+ *(.ram0_init.*)
+                0x200013e4                . = ALIGN (0x4)
+
+.ram0           0x200013e4        0x0 load address 0x08003fb4
+                0x200013e4                . = ALIGN (0x4)
+                0x200013e4                __ram0_clear__ = .
+ *(.ram0_clear)
+ *(.ram0_clear.*)
+                0x200013e4                . = ALIGN (0x4)
+                0x200013e4                __ram0_noinit__ = .
+ *(.ram0)
+ *(.ram0.*)
+                0x200013e4                . = ALIGN (0x4)
+                0x200013e4                __ram0_free__ = .
+
+.ram1_init      0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x08003fb4                __ram1_init_text__ = LOADADDR (.ram1_init)
+                0x00000000                __ram1_init__ = .
+ *(.ram1_init)
+ *(.ram1_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram1           0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram1_clear__ = .
+ *(.ram1_clear)
+ *(.ram1_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram1_noinit__ = .
+ *(.ram1)
+ *(.ram1.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram1_free__ = .
+
+.ram2_init      0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x08003fb4                __ram2_init_text__ = LOADADDR (.ram2_init)
+                0x00000000                __ram2_init__ = .
+ *(.ram2_init)
+ *(.ram2_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram2           0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram2_clear__ = .
+ *(.ram2_clear)
+ *(.ram2_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram2_noinit__ = .
+ *(.ram2)
+ *(.ram2.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram2_free__ = .
+
+.ram3_init      0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x08003fb4                __ram3_init_text__ = LOADADDR (.ram3_init)
+                0x00000000                __ram3_init__ = .
+ *(.ram3_init)
+ *(.ram3_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram3           0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram3_clear__ = .
+ *(.ram3_clear)
+ *(.ram3_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram3_noinit__ = .
+ *(.ram3)
+ *(.ram3.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram3_free__ = .
+
+.ram4_init      0x10000000        0x0 load address 0x08003fb4
+                0x10000000                . = ALIGN (0x4)
+                0x08003fb4                __ram4_init_text__ = LOADADDR (.ram4_init)
+                0x10000000                __ram4_init__ = .
+ *(.ram4_init)
+ *(.ram4_init.*)
+                0x10000000                . = ALIGN (0x4)
+
+.ram4           0x10000000        0x0 load address 0x08003fb4
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                __ram4_clear__ = .
+ *(.ram4_clear)
+ *(.ram4_clear.*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                __ram4_noinit__ = .
+ *(.ram4)
+ *(.ram4.*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                __ram4_free__ = .
+
+.ram5_init      0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x08003fb4                __ram5_init_text__ = LOADADDR (.ram5_init)
+                0x00000000                __ram5_init__ = .
+ *(.ram5_init)
+ *(.ram5_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram5           0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram5_clear__ = .
+ *(.ram5_clear)
+ *(.ram5_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram5_noinit__ = .
+ *(.ram5)
+ *(.ram5.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram5_free__ = .
+
+.ram6_init      0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x08003fb4                __ram6_init_text__ = LOADADDR (.ram6_init)
+                0x00000000                __ram6_init__ = .
+ *(.ram6_init)
+ *(.ram6_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram6           0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_clear__ = .
+ *(.ram6_clear)
+ *(.ram6_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_noinit__ = .
+ *(.ram6)
+ *(.ram6.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_free__ = .
+
+.ram7_init      0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x08003fb4                __ram7_init_text__ = LOADADDR (.ram7_init)
+                0x00000000                __ram7_init__ = .
+ *(.ram7_init)
+ *(.ram7_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram7           0x00000000        0x0 load address 0x08003fb4
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_clear__ = .
+ *(.ram7_clear)
+ *(.ram7_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_noinit__ = .
+ *(.ram7)
+ *(.ram7.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_free__ = .
+
+.heap           0x200013e4     0x8c1c
+                0x200013e8                . = ALIGN (0x8)
+ *fill*         0x200013e4        0x4 
+                0x200013e8                __heap_base__ = .
+                0x2000a000                . = (ORIGIN (HEAP_RAM) + 0xa000)
+ *fill*         0x200013e8     0x8c18 
+                0x2000a000                __heap_end__ = .
+                0x00000400                __process_stack_size__ = 0x400
+                0x00000400                __main_stack_size__ = 0x400
+START GROUP
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a
+END GROUP
+OUTPUT(build/ch.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x21 build/obj/crt0_v7m.o
+ .ARM.attributes
+                0x00000021       0x21 build/obj/chcoreasm_v7m.o
+ .ARM.attributes
+                0x00000042       0x31 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .ARM.attributes
+                0x00000073       0x31 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .ARM.attributes
+                0x000000a4       0x31 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .ARM.attributes
+                0x000000d5       0x31 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .ARM.attributes
+                0x00000106       0x31 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+ .ARM.attributes
+                0x00000137       0x1c c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000153       0x2e c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strpbrk.o)
+ .ARM.attributes
+                0x00000181       0x2e c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strspn.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+
+.debug_info     0x00000000     0xd7b3
+ .debug_info    0x00000000     0x5168 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .debug_info    0x00005168     0x3d28 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .debug_info    0x00008e90     0x2703 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .debug_info    0x0000b593     0x1806 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .debug_info    0x0000cd99      0xa1a C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+
+.debug_abbrev   0x00000000     0x17f6
+ .debug_abbrev  0x00000000      0x729 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .debug_abbrev  0x00000729      0x4ba C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .debug_abbrev  0x00000be3      0x46b C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .debug_abbrev  0x0000104e      0x4ff C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .debug_abbrev  0x0000154d      0x2a9 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+
+.debug_loc      0x00000000     0x48f5
+ .debug_loc     0x00000000     0x1ffd C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .debug_loc     0x00001ffd      0xd2a C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .debug_loc     0x00002d27      0x9f4 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .debug_loc     0x0000371b      0xda0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .debug_loc     0x000044bb      0x43a C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+
+.debug_aranges  0x00000000      0x350
+ .debug_aranges
+                0x00000000      0x1f0 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .debug_aranges
+                0x000001f0       0x20 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .debug_aranges
+                0x00000210       0x88 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .debug_aranges
+                0x00000298       0x80 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .debug_aranges
+                0x00000318       0x38 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+
+.debug_ranges   0x00000000     0x1948
+ .debug_ranges  0x00000000      0x8f8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .debug_ranges  0x000008f8      0xb98 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .debug_ranges  0x00001490      0x200 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .debug_ranges  0x00001690      0x248 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .debug_ranges  0x000018d8       0x70 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+
+.debug_line     0x00000000     0x362d
+ .debug_line    0x00000000     0x13d3 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .debug_line    0x000013d3      0xf1b C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .debug_line    0x000022ee      0x9ac C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .debug_line    0x00002c9a      0x78d C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .debug_line    0x00003427      0x206 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+
+.debug_str      0x00000000     0x286c
+ .debug_str     0x00000000     0x1303 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                               0x13d8 (size before relaxing)
+ .debug_str     0x00001303      0xcb6 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                               0x1584 (size before relaxing)
+ .debug_str     0x00001fb9      0x497 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                               0x1008 (size before relaxing)
+ .debug_str     0x00002450      0x28f C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                0x96e (size before relaxing)
+ .debug_str     0x000026df      0x18d C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                                0x54d (size before relaxing)
+
+.debug_frame    0x00000000      0xb24
+ .debug_frame   0x00000000      0x640 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+ .debug_frame   0x00000640       0x2c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ .debug_frame   0x0000066c      0x1f8 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+ .debug_frame   0x00000864      0x1bc C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+ .debug_frame   0x00000a20       0x9c C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+ .debug_frame   0x00000abc       0x34 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strpbrk.o)
+ .debug_frame   0x00000af0       0x34 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strspn.o)
+
+Cross Reference Table
+
+Symbol                                            File
+BusFault_Handler                                  build/obj/vectors.o (symbol from plugin)
+CardID.lto_priv.97                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+DebugMon_Handler                                  build/obj/vectors.o (symbol from plugin)
+HardFault_Handler                                 build/obj/vectors.o (symbol from plugin)
+LCDD1                                             C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  build/obj/lcd.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+MFRC522AntiCollisionLoop                          build/obj/mfrc522.o (symbol from plugin)
+MFRC522ClearBitMask.constprop.17                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+MFRC522Init                                       build/obj/mfrc522.o (symbol from plugin)
+MFRC522ObjectInit                                 build/obj/mfrc522.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+MFRC522ReadRegister                               build/obj/main.o (symbol from plugin)
+                                                  build/obj/mfrc522.o (symbol from plugin)
+MFRC522ReadRegister.constprop.19                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+MFRC522SetBitMask.constprop.18                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+MFRC522Start                                      build/obj/mfrc522.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+MFRC522Stop                                       build/obj/mfrc522.o (symbol from plugin)
+MFRC522WriteRegister                              build/obj/main.o (symbol from plugin)
+                                                  build/obj/mfrc522.o (symbol from plugin)
+MFRC522WriteRegister.constprop.20                 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+MTRD1                                             C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+MemManage_Handler                                 build/obj/vectors.o (symbol from plugin)
+MifareAnticoll                                    build/obj/mfrc522.o (symbol from plugin)
+MifareAuth                                        build/obj/mfrc522.o (symbol from plugin)
+MifareCalculateCRC                                build/obj/mfrc522.o (symbol from plugin)
+MifareCheck                                       build/obj/mfrc522.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+MifareCheck.constprop.5                           C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+MifareHalt                                        build/obj/mfrc522.o (symbol from plugin)
+MifareRead                                        build/obj/mfrc522.o (symbol from plugin)
+MifareRequest                                     build/obj/mfrc522.o (symbol from plugin)
+MifareSelectTag                                   build/obj/mfrc522.o (symbol from plugin)
+MifareToPICC.constprop.16                         C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+MifareWrite                                       build/obj/mfrc522.o (symbol from plugin)
+NMI_Handler                                       build/obj/vectors.o (symbol from plugin)
+PWMD1                                             C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  build/obj/pwm_lld.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+PendSV_Handler                                    build/obj/vectors.o (symbol from plugin)
+RFID1                                             C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+Reset_Handler                                     build/obj/crt0_v7m.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+SD1                                               C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/serial_lld.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+SPID2                                             C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  build/obj/spi_lld.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+SVC_Handler                                       build/obj/chcore_v7m.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+SysTick_Handler                                   build/obj/vectors.o (symbol from plugin)
+SystemCoreClock                                   build/obj/hal_lld.o (symbol from plugin)
+TestThread                                        build/obj/test.o (symbol from plugin)
+Thread1.lto_priv.71                               C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+Thread2.lto_priv.72                               C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+Thread3.lto_priv.73                               C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+Thread4.lto_priv.74                               C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+Thread5.lto_priv.75                               C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+Thread6.lto_priv.76                               C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+UsageFault_Handler                                build/obj/vectors.o (symbol from plugin)
+Vector100                                         build/obj/vectors.o (symbol from plugin)
+Vector104                                         build/obj/vectors.o (symbol from plugin)
+Vector108                                         build/obj/vectors.o (symbol from plugin)
+Vector10C                                         build/obj/vectors.o (symbol from plugin)
+Vector110                                         build/obj/vectors.o (symbol from plugin)
+Vector114                                         build/obj/vectors.o (symbol from plugin)
+Vector118                                         build/obj/vectors.o (symbol from plugin)
+Vector11C                                         build/obj/vectors.o (symbol from plugin)
+Vector120                                         build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector124                                         build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector128                                         build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector12C                                         build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector130                                         build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector134                                         build/obj/vectors.o (symbol from plugin)
+Vector138                                         build/obj/vectors.o (symbol from plugin)
+Vector13C                                         build/obj/vectors.o (symbol from plugin)
+Vector140                                         build/obj/vectors.o (symbol from plugin)
+Vector144                                         build/obj/vectors.o (symbol from plugin)
+Vector148                                         build/obj/vectors.o (symbol from plugin)
+Vector14C                                         build/obj/vectors.o (symbol from plugin)
+Vector150                                         build/obj/vectors.o (symbol from plugin)
+Vector154                                         build/obj/vectors.o (symbol from plugin)
+Vector158                                         build/obj/vectors.o (symbol from plugin)
+Vector15C                                         build/obj/vectors.o (symbol from plugin)
+Vector160                                         build/obj/vectors.o (symbol from plugin)
+Vector164                                         build/obj/vectors.o (symbol from plugin)
+Vector168                                         build/obj/vectors.o (symbol from plugin)
+Vector16C                                         build/obj/vectors.o (symbol from plugin)
+Vector170                                         build/obj/vectors.o (symbol from plugin)
+Vector174                                         build/obj/vectors.o (symbol from plugin)
+Vector178                                         build/obj/vectors.o (symbol from plugin)
+Vector17C                                         build/obj/vectors.o (symbol from plugin)
+Vector180                                         build/obj/vectors.o (symbol from plugin)
+Vector184                                         build/obj/vectors.o (symbol from plugin)
+Vector188                                         build/obj/vectors.o (symbol from plugin)
+Vector18C                                         build/obj/vectors.o (symbol from plugin)
+Vector190                                         build/obj/vectors.o (symbol from plugin)
+Vector194                                         build/obj/vectors.o (symbol from plugin)
+Vector198                                         build/obj/vectors.o (symbol from plugin)
+Vector19C                                         build/obj/vectors.o (symbol from plugin)
+Vector1C                                          build/obj/vectors.o (symbol from plugin)
+Vector20                                          build/obj/vectors.o (symbol from plugin)
+Vector24                                          build/obj/vectors.o (symbol from plugin)
+Vector28                                          build/obj/vectors.o (symbol from plugin)
+Vector34                                          build/obj/vectors.o (symbol from plugin)
+Vector40                                          build/obj/vectors.o (symbol from plugin)
+Vector44                                          build/obj/vectors.o (symbol from plugin)
+Vector48                                          build/obj/vectors.o (symbol from plugin)
+Vector4C                                          build/obj/vectors.o (symbol from plugin)
+Vector50                                          build/obj/vectors.o (symbol from plugin)
+Vector54                                          build/obj/vectors.o (symbol from plugin)
+Vector58                                          build/obj/vectors.o (symbol from plugin)
+Vector5C                                          build/obj/vectors.o (symbol from plugin)
+Vector60                                          build/obj/vectors.o (symbol from plugin)
+Vector64                                          build/obj/vectors.o (symbol from plugin)
+Vector68                                          build/obj/vectors.o (symbol from plugin)
+Vector6C                                          build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector70                                          build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector74                                          build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector78                                          build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector7C                                          build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector80                                          build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector84                                          build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector88                                          build/obj/vectors.o (symbol from plugin)
+Vector8C                                          build/obj/vectors.o (symbol from plugin)
+Vector90                                          build/obj/vectors.o (symbol from plugin)
+Vector94                                          build/obj/vectors.o (symbol from plugin)
+Vector98                                          build/obj/vectors.o (symbol from plugin)
+Vector9C                                          build/obj/vectors.o (symbol from plugin)
+VectorA0                                          build/obj/vectors.o (symbol from plugin)
+VectorA4                                          build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorA8                                          build/obj/vectors.o (symbol from plugin)
+VectorAC                                          build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorB0                                          build/obj/st_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorB4                                          build/obj/vectors.o (symbol from plugin)
+VectorB8                                          build/obj/vectors.o (symbol from plugin)
+VectorBC                                          build/obj/vectors.o (symbol from plugin)
+VectorC0                                          build/obj/vectors.o (symbol from plugin)
+VectorC4                                          build/obj/vectors.o (symbol from plugin)
+VectorC8                                          build/obj/vectors.o (symbol from plugin)
+VectorCC                                          build/obj/vectors.o (symbol from plugin)
+VectorD0                                          build/obj/vectors.o (symbol from plugin)
+VectorD4                                          build/obj/serial_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorD8                                          build/obj/vectors.o (symbol from plugin)
+VectorDC                                          build/obj/vectors.o (symbol from plugin)
+VectorE0                                          build/obj/vectors.o (symbol from plugin)
+VectorE4                                          build/obj/vectors.o (symbol from plugin)
+VectorE8                                          build/obj/vectors.o (symbol from plugin)
+VectorEC                                          build/obj/vectors.o (symbol from plugin)
+VectorF0                                          build/obj/vectors.o (symbol from plugin)
+VectorF4                                          build/obj/vectors.o (symbol from plugin)
+VectorF8                                          build/obj/vectors.o (symbol from plugin)
+VectorFC                                          build/obj/vectors.o (symbol from plugin)
+__core_init                                       C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__default_exit                                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__early_init                                      C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/board.o (symbol from plugin)
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__fini_array_end                                  build/obj/crt0_v7m.o
+__fini_array_start                                build/obj/crt0_v7m.o
+__heap_base__                                     C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__heap_end__                                      C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__init_array_end                                  build/obj/crt0_v7m.o
+__init_array_start                                build/obj/crt0_v7m.o
+__init_ram_areas                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__late_init                                       C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__main_stack_base__                               build/obj/crt0_v7m.o
+__main_stack_end__                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__process_stack_base__                            build/obj/crt0_v7m.o
+__process_stack_end__                             build/obj/crt0_v7m.o
+__ram0_clear__                                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_init__                                     C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_init_text__                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_noinit__                                   C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_clear__                                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_init__                                     C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_init_text__                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_noinit__                                   C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_clear__                                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_init__                                     C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_init_text__                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_noinit__                                   C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_clear__                                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_init__                                     C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_init_text__                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_noinit__                                   C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_clear__                                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_init__                                     C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_init_text__                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_noinit__                                   C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_clear__                                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_init__                                     C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_init_text__                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_noinit__                                   C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_clear__                                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_init__                                     C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_init_text__                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_noinit__                                   C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_clear__                                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_init__                                     C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_init_text__                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_noinit__                                   C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+_bss_end                                          build/obj/crt0_v7m.o
+_bss_start                                        build/obj/crt0_v7m.o
+_core_init                                        build/obj/chmemcore.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_data_end                                         build/obj/crt0_v7m.o
+_data_start                                       build/obj/crt0_v7m.o
+_heap_init                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_idle_thread.lto_priv.80                          C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+_pal_lld_init                                     build/obj/pal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+_pal_lld_setgroupmode                             C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/pal_lld.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/lcd.o (symbol from plugin)
+                                                  build/obj/pal.o (symbol from plugin)
+_port_exit_from_isr                               build/obj/chcoreasm_v7m.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_irq_epilogue                                build/obj/chcore_v7m.o (symbol from plugin)
+                                                  build/obj/serial_lld.o (symbol from plugin)
+                                                  build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/st_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+_port_switch                                      build/obj/chcoreasm_v7m.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+_port_switch_from_isr                             build/obj/chcoreasm_v7m.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_thread_start                                build/obj/chcoreasm_v7m.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+_scheduler_init                                   build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_stm32_dma_isr_redir                              C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+_stm32_dma_streams                                build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/spi_lld.o (symbol from plugin)
+_strtok.constprop.30                              C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+_test_assert                                      build/obj/test.o (symbol from plugin)
+                                                  build/obj/testsys.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testpools.o (symbol from plugin)
+                                                  build/obj/testheap.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+_test_assert_sequence                             build/obj/test.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+                                                  build/obj/testmsg.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+_test_assert_time_window                          build/obj/test.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+_test_fail                                        build/obj/test.o (symbol from plugin)
+_textdata_start                                   build/obj/crt0_v7m.o
+_thread_init                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_tm_init                                          build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_unhandled_exception                              build/obj/vectors.o (symbol from plugin)
+_vectors                                          C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+_vt_init                                          build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+boardInit                                         build/obj/board.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+ch                                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/shell.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/testmsg.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chCondBroadcast                                   build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+chCondBroadcastI                                  build/obj/chcond.o (symbol from plugin)
+chCondObjectInit                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+chCondSignal                                      build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+chCondSignalI                                     build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+chCondWait                                        build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+chCondWaitS                                       build/obj/chcond.o (symbol from plugin)
+chCondWaitTimeout                                 build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+chCondWaitTimeoutS                                build/obj/chcond.o (symbol from plugin)
+chCoreAlloc                                       C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/chheap.o (symbol from plugin)
+chCoreAllocI                                      build/obj/chmemcore.o (symbol from plugin)
+chCoreGetStatusX                                  build/obj/chmemcore.o (symbol from plugin)
+                                                  build/obj/testheap.o (symbol from plugin)
+chEvtAddEvents                                    build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtBroadcastFlags                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtBroadcastFlagsI                              build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/shell.o (symbol from plugin)
+                                                  build/obj/serial_lld.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+chEvtDispatch                                     build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtGetAndClearEvents                            build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtGetAndClearFlags                             build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearFlagsI                            build/obj/chevents.o (symbol from plugin)
+chEvtRegisterMaskWithFlags                        build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtSignal                                       build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtSignalI                                      build/obj/chevents.o (symbol from plugin)
+chEvtUnregister                                   build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtWaitAll                                      build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtWaitAllTimeout                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtWaitAny                                      build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtWaitAnyTimeout                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtWaitOne                                      build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chEvtWaitOneTimeout                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+chHeapAlloc                                       build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testheap.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chHeapFree                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testheap.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chHeapObjectInit                                  build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testheap.o (symbol from plugin)
+chHeapStatus                                      build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testheap.o (symbol from plugin)
+chIQGetTimeout                                    build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+chIQObjectInit                                    build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+chIQPutI                                          build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+chIQReadTimeout                                   build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+chIQResetI                                        build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+chMBFetch                                         build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+chMBFetchI                                        build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+chMBFetchS                                        build/obj/chmboxes.o (symbol from plugin)
+chMBObjectInit                                    build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+chMBPost                                          build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+chMBPostAhead                                     build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+chMBPostAheadI                                    build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+chMBPostAheadS                                    build/obj/chmboxes.o (symbol from plugin)
+chMBPostI                                         build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+chMBPostS                                         build/obj/chmboxes.o (symbol from plugin)
+chMBReset                                         build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+chMBResetI                                        build/obj/chmboxes.o (symbol from plugin)
+chMsgRelease                                      build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testmsg.o (symbol from plugin)
+chMsgSend                                         build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testmsg.o (symbol from plugin)
+chMsgWait                                         build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testmsg.o (symbol from plugin)
+chMtxLock                                         C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxLockS                                        build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+chMtxObjectInit                                   build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxTryLock                                      build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+chMtxTryLockS                                     build/obj/chmtx.o (symbol from plugin)
+chMtxUnlock                                       C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxUnlockAll                                    build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+chMtxUnlockS                                      build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+chOQGetI                                          build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/serial_lld.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+chOQObjectInit                                    build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+chOQPutTimeout                                    build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+chOQResetI                                        build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+chOQWriteTimeout                                  build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+chPoolAlloc                                       build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testpools.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chPoolAllocI                                      build/obj/chmempools.o (symbol from plugin)
+chPoolFree                                        build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testpools.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chPoolFreeI                                       build/obj/chmempools.o (symbol from plugin)
+chPoolLoadArray                                   build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/testpools.o (symbol from plugin)
+chPoolObjectInit                                  build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testpools.o (symbol from plugin)
+chRegFirstThread                                  build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+chRegNextThread                                   build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+chSchDoReschedule                                 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chSchDoRescheduleAhead                            build/obj/chschd.o (symbol from plugin)
+chSchDoRescheduleBehind                           build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepS                                     C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepTimeoutS                              build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchIsPreemptionRequired                         build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+chSchReadyI                                       build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchRescheduleS                                  build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chSchWakeupS                                      build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchWakeupS.constprop.70                         C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+chSemAddCounterI                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+chSemObjectInit                                   build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chSemReset                                        build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+chSemResetI                                       build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chSemSignal                                       build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+chSemSignalI                                      build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chSemSignalWait                                   build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+chSemWait                                         build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+chSemWaitS                                        build/obj/chsem.o (symbol from plugin)
+chSemWaitTimeout                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+chSemWaitTimeoutS                                 build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chSysGetStatusAndLockX                            build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/testsys.o (symbol from plugin)
+chSysHalt                                         build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/spi_lld.o (symbol from plugin)
+chSysInit                                         build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chSysIntegrityCheckI                              build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/testsys.o (symbol from plugin)
+chSysIsCounterWithinX                             build/obj/chsys.o (symbol from plugin)
+chSysPolledDelayX                                 build/obj/chsys.o (symbol from plugin)
+chSysRestoreStatusX                               build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/testsys.o (symbol from plugin)
+chSysTimerHandlerI                                build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/st_lld.o (symbol from plugin)
+chTMChainMeasurementToX                           build/obj/chtm.o (symbol from plugin)
+chTMObjectInit                                    build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX                             build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX.constprop.67                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+chTMStopMeasurementX                              C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+chThdAddRef                                       build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+chThdCreateFromHeap                               build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/shell.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+chThdCreateFromMemoryPool                         build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+chThdCreateI                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chThdCreateStatic                                 build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/shell.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/testmsg.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chThdCreateStatic.constprop.69                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+chThdDequeueAllI                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chqueues.o (symbol from plugin)
+chThdDequeueNextI                                 build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chqueues.o (symbol from plugin)
+chThdEnqueueTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chqueues.o (symbol from plugin)
+chThdExit                                         C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chThdExitS                                        build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/shell.o (symbol from plugin)
+chThdRelease                                      build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chThdResume                                       build/obj/chthreads.o (symbol from plugin)
+chThdResumeI                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/spi_lld.o (symbol from plugin)
+chThdResumeS                                      build/obj/chthreads.o (symbol from plugin)
+chThdSetPriority                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+chThdSleep                                        C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/lcd.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testsys.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+chThdSleepUntil                                   build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+chThdSleepUntilWindowed                           build/obj/chthreads.o (symbol from plugin)
+chThdStart                                        build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+chThdSuspendS                                     build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+chThdSuspendTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+chThdTerminate                                    build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+chThdWait                                         build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+chThdYield                                        build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+chVTDoResetI                                      build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testsys.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+chVTDoSetI                                        build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testsys.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+ch_debug                                          build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chprintf                                          C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  build/obj/chprintf.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/shell.o (symbol from plugin)
+chsnprintf                                        build/obj/chprintf.o (symbol from plugin)
+chvprintf                                         build/obj/chprintf.o (symbol from plugin)
+cmd_addcard.lto_priv.93                           C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+cmd_codes.lto_priv.95                             C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+cmd_manual.lto_priv.96                            C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+cmd_rmvcard.lto_priv.94                           C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+codeIndex                                         build/obj/rfidcodes.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+codeIndex.constprop.0                             C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+codes                                             C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans4.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+dmaInit                                           build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_lld.o (symbol from plugin)
+dmaStreamAllocate                                 build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/spi_lld.o (symbol from plugin)
+dmaStreamAllocate.constprop.44                    C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+dmaStreamRelease                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/spi_lld.o (symbol from plugin)
+dma_streams_mask.lto_priv.82                      C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+endmem.lto_priv.98                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+equalCodes                                        build/obj/rfidcodes.o (symbol from plugin)
+get.lto_priv.86                                   C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+gett.lto_priv.88                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+halInit                                           build/obj/hal.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+hal_lld_init                                      build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+hd44780WriteRegister.constprop.25                 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+ibqGetEmptyBufferI                                build/obj/hal_buffers.o (symbol from plugin)
+ibqGetFullBufferTimeout                           build/obj/hal_buffers.o (symbol from plugin)
+ibqGetFullBufferTimeoutS                          build/obj/hal_buffers.o (symbol from plugin)
+ibqGetTimeout                                     build/obj/hal_buffers.o (symbol from plugin)
+ibqObjectInit                                     build/obj/hal_buffers.o (symbol from plugin)
+ibqPostFullBufferI                                build/obj/hal_buffers.o (symbol from plugin)
+ibqReadTimeout                                    build/obj/hal_buffers.o (symbol from plugin)
+ibqReleaseEmptyBuffer                             build/obj/hal_buffers.o (symbol from plugin)
+ibqReleaseEmptyBufferS                            build/obj/hal_buffers.o (symbol from plugin)
+ibqResetI                                         build/obj/hal_buffers.o (symbol from plugin)
+lcdBacklightOff                                   build/obj/lcd.o (symbol from plugin)
+lcdBacklightOn                                    build/obj/lcd.o (symbol from plugin)
+lcdClearDisplay                                   build/obj/lcd.o (symbol from plugin)
+lcdDoDisplayShift                                 build/obj/lcd.o (symbol from plugin)
+lcdInit                                           build/obj/lcd.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+lcdObjectInit                                     build/obj/lcd.o (symbol from plugin)
+lcdReturnHome                                     build/obj/lcd.o (symbol from plugin)
+lcdSetAddress                                     build/obj/lcd.o (symbol from plugin)
+lcdStart                                          build/obj/lcd.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+lcdStop                                           build/obj/lcd.o (symbol from plugin)
+lcdWriteString                                    build/obj/lcd.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+lcdWriteString.constprop.21                       C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+long_to_string_with_divisor.constprop.29          C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+main                                              C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+motorDown                                         build/obj/motor.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+motorObjectInit                                   build/obj/motor.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+motorStart                                        build/obj/motor.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+motorUp                                           build/obj/motor.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+msObjectInit                                      build/obj/memstreams.o (symbol from plugin)
+                                                  build/obj/chprintf.o (symbol from plugin)
+nextmem.lto_priv.99                               C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+notify1.lto_priv.81                               C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+nvicClearPending                                  build/obj/nvic.o (symbol from plugin)
+nvicDisableVector                                 build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+nvicEnableVector                                  build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/serial_lld.o (symbol from plugin)
+                                                  build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/st_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+nvicSetSystemHandlerPriority                      build/obj/nvic.o (symbol from plugin)
+obqFlush                                          build/obj/hal_buffers.o (symbol from plugin)
+obqGetEmptyBufferTimeout                          build/obj/hal_buffers.o (symbol from plugin)
+obqGetEmptyBufferTimeoutS                         build/obj/hal_buffers.o (symbol from plugin)
+obqGetFullBufferI                                 build/obj/hal_buffers.o (symbol from plugin)
+obqObjectInit                                     build/obj/hal_buffers.o (symbol from plugin)
+obqPostFullBuffer                                 build/obj/hal_buffers.o (symbol from plugin)
+obqPostFullBufferS                                build/obj/hal_buffers.o (symbol from plugin)
+obqPutTimeout                                     build/obj/hal_buffers.o (symbol from plugin)
+obqReleaseEmptyBufferI                            build/obj/hal_buffers.o (symbol from plugin)
+obqResetI                                         build/obj/hal_buffers.o (symbol from plugin)
+obqTryFlushI                                      build/obj/hal_buffers.o (symbol from plugin)
+obqWriteTimeout                                   build/obj/hal_buffers.o (symbol from plugin)
+palReadBus                                        build/obj/pal.o (symbol from plugin)
+palSetBusMode                                     build/obj/pal.o (symbol from plugin)
+palWriteBus                                       build/obj/pal.o (symbol from plugin)
+pal_default_config                                build/obj/board.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+patternbmk                                        build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+patterndyn                                        build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+patternevt                                        build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+patternheap                                       build/obj/testheap.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+patternmbox                                       build/obj/testmbox.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+patternmsg                                        build/obj/testmsg.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+patternmtx                                        build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+patternpools                                      build/obj/testpools.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+patternqueues                                     build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+patternsem                                        build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+patternsys                                        build/obj/testsys.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+patternthd                                        build/obj/testthd.o (symbol from plugin)
+                                                  build/obj/test.o (symbol from plugin)
+put.lto_priv.85                                   C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+putt.lto_priv.87                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+pwmChangePeriod                                   build/obj/pwm.o (symbol from plugin)
+pwmDisableChannel                                 build/obj/pwm.o (symbol from plugin)
+pwmDisableChannelNotification                     build/obj/pwm.o (symbol from plugin)
+pwmDisablePeriodicNotification                    build/obj/pwm.o (symbol from plugin)
+pwmEnableChannel                                  build/obj/pwm.o (symbol from plugin)
+                                                  build/obj/motor.o (symbol from plugin)
+pwmEnableChannelNotification                      build/obj/pwm.o (symbol from plugin)
+                                                  build/obj/motor.o (symbol from plugin)
+pwmEnablePeriodicNotification                     build/obj/pwm.o (symbol from plugin)
+                                                  build/obj/motor.o (symbol from plugin)
+pwmInit                                           build/obj/pwm.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+pwmObjectInit                                     build/obj/pwm.o (symbol from plugin)
+                                                  build/obj/pwm_lld.o (symbol from plugin)
+pwmStart                                          build/obj/pwm.o (symbol from plugin)
+                                                  build/obj/motor.o (symbol from plugin)
+pwmStop                                           build/obj/pwm.o (symbol from plugin)
+pwm_lld_disable_channel                           build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/pwm.o (symbol from plugin)
+pwm_lld_disable_channel_notification              build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/pwm.o (symbol from plugin)
+pwm_lld_disable_periodic_notification             build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/pwm.o (symbol from plugin)
+pwm_lld_enable_channel                            build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/pwm.o (symbol from plugin)
+pwm_lld_enable_channel_notification               build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/pwm.o (symbol from plugin)
+pwm_lld_enable_periodic_notification              build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/pwm.o (symbol from plugin)
+pwm_lld_init                                      build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/pwm.o (symbol from plugin)
+pwm_lld_serve_interrupt                           build/obj/pwm_lld.o (symbol from plugin)
+pwm_lld_serve_interrupt.constprop.33              C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+pwm_lld_start                                     build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/pwm.o (symbol from plugin)
+pwm_lld_stop                                      build/obj/pwm_lld.o (symbol from plugin)
+                                                  build/obj/pwm.o (symbol from plugin)
+pwmc1cb.lto_priv.92                               C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+pwmpcb.lto_priv.91                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans3.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+read.lto_priv.84                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+readt.lto_priv.90                                 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+sdGetWouldBlock                                   build/obj/serial.o (symbol from plugin)
+sdIncomingDataI                                   build/obj/serial.o (symbol from plugin)
+                                                  build/obj/serial_lld.o (symbol from plugin)
+sdInit                                            build/obj/serial.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+sdObjectInit                                      build/obj/serial.o (symbol from plugin)
+                                                  build/obj/serial_lld.o (symbol from plugin)
+sdPutWouldBlock                                   build/obj/serial.o (symbol from plugin)
+sdRequestDataI                                    build/obj/serial.o (symbol from plugin)
+sdStart                                           build/obj/serial.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+sdStop                                            build/obj/serial.o (symbol from plugin)
+sd_lld_init                                       build/obj/serial_lld.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+sd_lld_start                                      build/obj/serial_lld.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+sd_lld_stop                                       build/obj/serial_lld.o (symbol from plugin)
+                                                  build/obj/serial.o (symbol from plugin)
+shellCreate                                       build/obj/shell.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+shellCreateStatic                                 build/obj/shell.o (symbol from plugin)
+shellExit                                         build/obj/shell.o (symbol from plugin)
+shellGetLine                                      build/obj/shell.o (symbol from plugin)
+shellInit                                         build/obj/shell.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+shell_terminated                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+                                                  build/obj/shell.o (symbol from plugin)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+shell_thread.lto_priv.77                          C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+spiAcquireBus                                     build/obj/spi.o (symbol from plugin)
+spiExchange                                       build/obj/spi.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+spiIgnore                                         build/obj/spi.o (symbol from plugin)
+spiInit                                           build/obj/spi.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+spiObjectInit                                     build/obj/spi.o (symbol from plugin)
+                                                  build/obj/spi_lld.o (symbol from plugin)
+spiReceive                                        build/obj/spi.o (symbol from plugin)
+spiReleaseBus                                     build/obj/spi.o (symbol from plugin)
+spiSelect                                         build/obj/spi.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+spiSend                                           build/obj/spi.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+spiStart                                          build/obj/spi.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+spiStartExchange                                  build/obj/spi.o (symbol from plugin)
+spiStartIgnore                                    build/obj/spi.o (symbol from plugin)
+spiStartReceive                                   build/obj/spi.o (symbol from plugin)
+spiStartSend                                      build/obj/spi.o (symbol from plugin)
+spiStop                                           build/obj/spi.o (symbol from plugin)
+spiUnselect                                       build/obj/spi.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+spi_lld_exchange                                  build/obj/spi_lld.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+spi_lld_ignore                                    build/obj/spi_lld.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+spi_lld_init                                      build/obj/spi_lld.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+spi_lld_polled_exchange                           build/obj/spi_lld.o (symbol from plugin)
+spi_lld_receive                                   build/obj/spi_lld.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+spi_lld_select                                    build/obj/spi_lld.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+spi_lld_send                                      build/obj/spi_lld.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+spi_lld_serve_rx_interrupt.lto_priv.78            C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+spi_lld_serve_tx_interrupt.lto_priv.79            C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+spi_lld_start                                     build/obj/spi_lld.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+spi_lld_stop                                      build/obj/spi_lld.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+spi_lld_unselect                                  build/obj/spi_lld.o (symbol from plugin)
+                                                  build/obj/spi.o (symbol from plugin)
+stGetAlarm                                        build/obj/st.o (symbol from plugin)
+stInit                                            build/obj/st.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+stSetAlarm                                        build/obj/st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+stStartAlarm                                      build/obj/st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+stStopAlarm                                       build/obj/st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+st_lld_init                                       build/obj/st_lld.o (symbol from plugin)
+                                                  build/obj/st.o (symbol from plugin)
+state                                             build/obj/main.o (symbol from plugin)
+stm32_clock_init                                  build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/board.o (symbol from plugin)
+strcmp                                            c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+strpbrk                                           c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strpbrk.o)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+strspn                                            c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strspn.o)
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans2.ltrans.o
+test                                              build/obj/test.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testheap.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+test_emit_token                                   build/obj/test.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/testmbox.o (symbol from plugin)
+                                                  build/obj/testmsg.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+test_global_fail                                  build/obj/test.o (symbol from plugin)
+test_print                                        build/obj/test.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+test_println                                      build/obj/test.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+test_printn                                       build/obj/test.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+test_start_timer                                  build/obj/test.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+test_terminate_threads                            build/obj/test.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+test_timer_done                                   build/obj/test.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+test_wait_threads                                 build/obj/test.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+test_wait_tick                                    build/obj/test.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+testbmk1                                          build/obj/testbmk.o (symbol from plugin)
+testbmk10                                         build/obj/testbmk.o (symbol from plugin)
+testbmk11                                         build/obj/testbmk.o (symbol from plugin)
+testbmk12                                         build/obj/testbmk.o (symbol from plugin)
+testbmk13                                         build/obj/testbmk.o (symbol from plugin)
+testbmk2                                          build/obj/testbmk.o (symbol from plugin)
+testbmk3                                          build/obj/testbmk.o (symbol from plugin)
+testbmk4                                          build/obj/testbmk.o (symbol from plugin)
+testbmk5                                          build/obj/testbmk.o (symbol from plugin)
+testbmk6                                          build/obj/testbmk.o (symbol from plugin)
+testbmk7                                          build/obj/testbmk.o (symbol from plugin)
+testbmk8                                          build/obj/testbmk.o (symbol from plugin)
+testbmk9                                          build/obj/testbmk.o (symbol from plugin)
+testdyn1                                          build/obj/testdyn.o (symbol from plugin)
+testdyn2                                          build/obj/testdyn.o (symbol from plugin)
+testdyn3                                          build/obj/testdyn.o (symbol from plugin)
+testevt1                                          build/obj/testevt.o (symbol from plugin)
+testevt2                                          build/obj/testevt.o (symbol from plugin)
+testevt3                                          build/obj/testevt.o (symbol from plugin)
+testheap1                                         build/obj/testheap.o (symbol from plugin)
+testmbox1                                         build/obj/testmbox.o (symbol from plugin)
+testmsg1                                          build/obj/testmsg.o (symbol from plugin)
+testmtx1                                          build/obj/testmtx.o (symbol from plugin)
+testmtx4                                          build/obj/testmtx.o (symbol from plugin)
+testmtx5                                          build/obj/testmtx.o (symbol from plugin)
+testmtx6                                          build/obj/testmtx.o (symbol from plugin)
+testmtx7                                          build/obj/testmtx.o (symbol from plugin)
+testmtx8                                          build/obj/testmtx.o (symbol from plugin)
+testpools1                                        build/obj/testpools.o (symbol from plugin)
+testqueues1                                       build/obj/testqueues.o (symbol from plugin)
+testqueues2                                       build/obj/testqueues.o (symbol from plugin)
+testsem1                                          build/obj/testsem.o (symbol from plugin)
+testsem2                                          build/obj/testsem.o (symbol from plugin)
+testsem3                                          build/obj/testsem.o (symbol from plugin)
+testsem4                                          build/obj/testsem.o (symbol from plugin)
+testsys1                                          build/obj/testsys.o (symbol from plugin)
+testsys2                                          build/obj/testsys.o (symbol from plugin)
+testsys3                                          build/obj/testsys.o (symbol from plugin)
+testthd1                                          build/obj/testthd.o (symbol from plugin)
+testthd2                                          build/obj/testthd.o (symbol from plugin)
+testthd3                                          build/obj/testthd.o (symbol from plugin)
+testthd4                                          build/obj/testthd.o (symbol from plugin)
+threads                                           build/obj/test.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/testmsg.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+wa                                                build/obj/test.o (symbol from plugin)
+                                                  build/obj/testbmk.o (symbol from plugin)
+                                                  build/obj/testqueues.o (symbol from plugin)
+                                                  build/obj/testdyn.o (symbol from plugin)
+                                                  build/obj/testpools.o (symbol from plugin)
+                                                  build/obj/testevt.o (symbol from plugin)
+                                                  build/obj/testmsg.o (symbol from plugin)
+                                                  build/obj/testmtx.o (symbol from plugin)
+                                                  build/obj/testsem.o (symbol from plugin)
+                                                  build/obj/testthd.o (symbol from plugin)
+write.lto_priv.83                                 C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
+writet.lto_priv.89                                C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans0.ltrans.o
+                                                  C:\Users\NICOLA~1\AppData\Local\Temp\cc1YK72F.ltrans1.ltrans.o
